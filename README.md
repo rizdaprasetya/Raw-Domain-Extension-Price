@@ -1,6 +1,8 @@
 # Raw Domain Prices
 This Project mission is to provide public information on the Raw/Actual/At-Cost/Real domain extension prices. 
-Visit the pricing table here: https://docs.google.com/spreadsheets/d/1ir4dNM_BYajBzBMELzd4PDIkuNW4eB1y7p271JIwW5I/edit?usp=sharing
+Visit the pricing table here: 
+- https://docs.google.com/spreadsheets/d/1ir4dNM_BYajBzBMELzd4PDIkuNW4eB1y7p271JIwW5I/edit?usp=sharing
+- Or [click here](/domain_prices.csv) to visit Github's CSV viewer, which also have search feature!
 
 Might be useful for:
 - To make sure you are not overcharged by your Domain Registry.
@@ -20,6 +22,7 @@ It's time for us to really know (or atleast approximate) how much we should be p
     - So I can trigger it easily from GSheet, without any dedicated backend.
     - Yes I aim to be as backendless as possible, leveraging any off-the-shelf popular free online service, like Google App Script.
 - Due to its scraping nature, it may break someday if the data source introduce significant changes.
+- Note: On some domains that is found within both sources, there are some price differences between DomainCostClub pricing (seems more expensive) & Cloudflare. Maybe DCC still markup the domain price after all.
 
 # Other
 - The Google App Script based script is available as: `scrapPrices.js` in the repo.
@@ -42,7 +45,7 @@ It's time for us to really know (or atleast approximate) how much we should be p
 
 # Embedded Raw Domain Extension Price Table
 
->**Note**: this might not be updated in real time, please visit [the GSheet](https://docs.google.com/spreadsheets/d/1ir4dNM_BYajBzBMELzd4PDIkuNW4eB1y7p271JIwW5I/edit?usp=sharing) for more recent data
+>**Note**: this might not be updated in real time, please visit [the GSheet](https://docs.google.com/spreadsheets/d/1ir4dNM_BYajBzBMELzd4PDIkuNW4eB1y7p271JIwW5I/edit?usp=sharing) for more recently-scraped data
 
 |Domain Extension|Yearly Price (USD)|Price Source      |
 |----------------|------------------|------------------|
