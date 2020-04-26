@@ -2,6 +2,7 @@
 This Project mission is to provide public information on the Raw/Actual/At-Cost/Real domain extension prices. 
 Visit the pricing table here: 
 - https://docs.google.com/spreadsheets/d/1ir4dNM_BYajBzBMELzd4PDIkuNW4eB1y7p271JIwW5I/edit?usp=sharing
+- Or Sort by cheapest: https://docs.google.com/spreadsheets/d/1ir4dNM_BYajBzBMELzd4PDIkuNW4eB1y7p271JIwW5I/edit#gid=0&fvid=273180247
 - Or [click here](/domain_prices.csv) to visit Github's CSV viewer, which also have search feature!
 
 Might be useful for:
@@ -22,7 +23,6 @@ It's time for us to really know (or atleast approximate) how much we should be p
     - So I can trigger it easily from GSheet, without any dedicated backend.
     - Yes I aim to be as backendless as possible, leveraging any off-the-shelf popular free online service, like Google App Script.
 - Due to its scraping nature, it may break someday if the data source introduce significant changes.
-- Note: On some domains that is found within both sources, there are some price differences between DomainCostClub pricing (seems more expensive) & Cloudflare. Maybe DCC still markup the domain price after all.
 
 # Other
 - The Google App Script based script is available as: `scrapPrices.js` in the repo.
@@ -42,6 +42,13 @@ It's time for us to really know (or atleast approximate) how much we should be p
 
 # TODO
 - create simple Html/web frontend interface to easily sort/search the table.
+
+# Disclaimer
+- On Cloudflare data source, read [disclaimer stated by `judge2020` here](https://github.com/judge2020/Actual-Domain-Prices/#disclaimer)
+- On DomainCostClub data source, they [said](https://www.domaincostclub.com/pricing.dhtml): `Our Pricing. No Markup, Ever. ... Domain Cost Club Members are guaranteed at-cost pricing.`
+    - Though we can't be 100% sure with their claim.
+- On some domains that is found within both sources, there are some price differences between DomainCostClub pricing (seems more expensive) & Cloudflare. Maybe DCC still markup the domain price ??? or they used different pricing source, etc.
+
 
 # Embedded Raw Domain Extension Price Table
 
