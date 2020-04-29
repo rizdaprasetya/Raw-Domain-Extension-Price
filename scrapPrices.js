@@ -114,15 +114,22 @@ var extractPricesDCC = function(htmlStr, isReturnAsArray=0){
     if(processedRow.length<2){
       return null;
     }
-    // clean up any html tag that might left
+    // clean up any html tag that might left within domain name
     if(processedRow[1].includes('<')){
       processedRow[1] = (processedRow[1].match(/(?<=>)\..+?(?=<)/))[0];
     }
+    // clean up price & parse as float
+    processedRow[3] = parseFloat(
+      processedRow[3]
+      //remove dollar sign
+      .replace('$','')
+      //remove comma, as it may cause incorrect parseFloat result
+      .replace(',','')
+    );
+    
     return {
       "domain_extension": processedRow[1],
-      "renewal_price": parseFloat(
-        processedRow[3].replace('$','')
-      ),
+      "renewal_price": processedRow[3],
       "source": "DomainCostClub.com"
     }
   });

@@ -82,7 +82,7 @@ It's time for us to really know (or atleast approximate) how much we should be p
 |.auction        |20.00             |Cloudflare Domain |
 |.auction        |21.50             |DomainCostClub.com|
 |.audio          |100.00            |DomainCostClub.com|
-|.auto           |2.00              |DomainCostClub.com|
+|.auto           |2000.00           |DomainCostClub.com|
 |.autos          |50.00             |DomainCostClub.com|
 |.baby           |50.00             |DomainCostClub.com|
 |.band           |15.00             |Cloudflare Domain |
@@ -91,7 +91,7 @@ It's time for us to really know (or atleast approximate) how much we should be p
 |.bar            |50.00             |DomainCostClub.com|
 |.bargains       |20.00             |Cloudflare Domain |
 |.bargains       |21.00             |DomainCostClub.com|
-|.bayern         |22.73             |DomainCostClub.com|
+|.bayern         |22.75             |DomainCostClub.com|
 |.beer           |20.00             |DomainCostClub.com|
 |.best           |15.00             |DomainCostClub.com|
 |.bet            |10.99             |Cloudflare Domain |
@@ -131,14 +131,14 @@ It's time for us to really know (or atleast approximate) how much we should be p
 |.camp           |36.00             |DomainCostClub.com|
 |.capital        |33.00             |Cloudflare Domain |
 |.capital        |35.50             |DomainCostClub.com|
-|.car            |2.00              |DomainCostClub.com|
+|.car            |2000.00           |DomainCostClub.com|
 |.cards          |20.00             |Cloudflare Domain |
 |.cards          |21.50             |DomainCostClub.com|
 |.care           |20.00             |Cloudflare Domain |
 |.care           |21.50             |DomainCostClub.com|
 |.careers        |33.00             |Cloudflare Domain |
 |.careers        |35.50             |DomainCostClub.com|
-|.cars           |2.00              |DomainCostClub.com|
+|.cars           |2000.00           |DomainCostClub.com|
 |.casa           |7.50              |DomainCostClub.com|
 |.cash           |20.00             |Cloudflare Domain |
 |.cash           |21.50             |DomainCostClub.com|
@@ -380,7 +380,7 @@ It's time for us to really know (or atleast approximate) how much we should be p
 |.immobilien     |20.00             |Cloudflare Domain |
 |.immobilien     |21.50             |DomainCostClub.com|
 |.in             |8.33              |DomainCostClub.com|
-|.inc            |2.00              |DomainCostClub.com|
+|.inc            |2000.00           |DomainCostClub.com|
 |.industries     |20.00             |Cloudflare Domain |
 |.industries     |21.50             |DomainCostClub.com|
 |.info           |10.84             |Cloudflare Domain |
@@ -438,7 +438,7 @@ It's time for us to really know (or atleast approximate) how much we should be p
 |.loans          |66.00             |Cloudflare Domain |
 |.loans          |66.00             |DomainCostClub.com|
 |.lol            |20.00             |DomainCostClub.com|
-|.london         |25.97             |DomainCostClub.com|
+|.london         |26.10             |DomainCostClub.com|
 |.love           |20.00             |Cloudflare Domain |
 |.love           |20.00             |DomainCostClub.com|
 |.ltd            |13.00             |Cloudflare Domain |
@@ -454,7 +454,7 @@ It's time for us to really know (or atleast approximate) how much we should be p
 |.marketing      |21.50             |DomainCostClub.com|
 |.mba            |20.00             |Cloudflare Domain |
 |.mba            |21.50             |DomainCostClub.com|
-|.me             |10.82             |DomainCostClub.com|
+|.me             |10.83             |DomainCostClub.com|
 |.media          |20.00             |Cloudflare Domain |
 |.media          |21.50             |DomainCostClub.com|
 |.memorial       |33.00             |Cloudflare Domain |
@@ -473,7 +473,7 @@ It's time for us to really know (or atleast approximate) how much we should be p
 |.motorcycles    |25.00             |DomainCostClub.com|
 |.movie          |200.00            |Cloudflare Domain |
 |.movie          |200.00            |DomainCostClub.com|
-|.museum         |37.88             |DomainCostClub.com|
+|.museum         |37.92             |DomainCostClub.com|
 |.name           |6.60              |DomainCostClub.com|
 |.navy           |21.50             |DomainCostClub.com|
 |.net            |9.77              |Cloudflare Domain |
@@ -484,7 +484,7 @@ It's time for us to really know (or atleast approximate) how much we should be p
 |.news           |16.00             |DomainCostClub.com|
 |.ninja          |12.00             |Cloudflare Domain |
 |.ninja          |13.00             |DomainCostClub.com|
-|.nl             |5.45              |DomainCostClub.com|
+|.nl             |5.46              |DomainCostClub.com|
 |.nyc            |20.00             |DomainCostClub.com|
 |.observer       |8.00              |DomainCostClub.com|
 |.onl            |9.95              |DomainCostClub.com|
@@ -495,7 +495,7 @@ It's time for us to really know (or atleast approximate) how much we should be p
 |.org            |9.93              |DomainCostClub.com|
 |.organic        |50.00             |DomainCostClub.com|
 |.page           |8.00              |DomainCostClub.com|
-|.paris          |31.38             |DomainCostClub.com|
+|.paris          |31.42             |DomainCostClub.com|
 |.partners       |33.00             |Cloudflare Domain |
 |.partners       |35.50             |DomainCostClub.com|
 |.parts          |20.00             |Cloudflare Domain |
@@ -532,7 +532,7 @@ It's time for us to really know (or atleast approximate) how much we should be p
 |.properties     |20.00             |Cloudflare Domain |
 |.properties     |21.50             |DomainCostClub.com|
 |.property       |100.00            |DomainCostClub.com|
-|.protection     |2.00              |DomainCostClub.com|
+|.protection     |2000.00           |DomainCostClub.com|
 |.pub            |20.00             |Cloudflare Domain |
 |.pub            |21.50             |DomainCostClub.com|
 |.pw             |15.00             |DomainCostClub.com|
@@ -565,7 +565,7 @@ It's time for us to really know (or atleast approximate) how much we should be p
 |.review         |1.98              |DomainCostClub.com|
 |.reviews        |15.00             |Cloudflare Domain |
 |.reviews        |16.00             |DomainCostClub.com|
-|.rich           |1.00              |DomainCostClub.com|
+|.rich           |1750.00           |DomainCostClub.com|
 |.rip            |12.00             |Cloudflare Domain |
 |.rip            |13.00             |DomainCostClub.com|
 |.rocks          |8.00              |Cloudflare Domain |
@@ -573,7 +573,7 @@ It's time for us to really know (or atleast approximate) how much we should be p
 |.rodeo          |5.00              |DomainCostClub.com|
 |.run            |13.00             |Cloudflare Domain |
 |.run            |14.00             |DomainCostClub.com|
-|.saarland       |16.23             |DomainCostClub.com|
+|.saarland       |16.25             |DomainCostClub.com|
 |.sale           |20.00             |Cloudflare Domain |
 |.sale           |21.50             |DomainCostClub.com|
 |.salon          |33.00             |Cloudflare Domain |
@@ -586,7 +586,7 @@ It's time for us to really know (or atleast approximate) how much we should be p
 |.schule         |14.00             |DomainCostClub.com|
 |.science        |1.98              |DomainCostClub.com|
 |.security       |2000.00           |Cloudflare Domain |
-|.security       |2.00              |DomainCostClub.com|
+|.security       |2000.00           |DomainCostClub.com|
 |.services       |20.00             |Cloudflare Domain |
 |.services       |21.00             |DomainCostClub.com|
 |.sex            |75.00             |DomainCostClub.com|
@@ -600,7 +600,7 @@ It's time for us to really know (or atleast approximate) how much we should be p
 |.shopping       |21.00             |DomainCostClub.com|
 |.show           |20.00             |Cloudflare Domain |
 |.show           |21.50             |DomainCostClub.com|
-|.si             |19.97             |DomainCostClub.com|
+|.si             |19.99             |DomainCostClub.com|
 |.singles        |20.00             |Cloudflare Domain |
 |.singles        |21.00             |DomainCostClub.com|
 |.site           |20.00             |Cloudflare Domain |
@@ -619,7 +619,7 @@ It's time for us to really know (or atleast approximate) how much we should be p
 |.space          |15.00             |Cloudflare Domain |
 |.space          |15.00             |DomainCostClub.com|
 |.srl            |26.00             |DomainCostClub.com|
-|.st             |36.97             |DomainCostClub.com|
+|.st             |37.01             |DomainCostClub.com|
 |.storage        |500.00            |Cloudflare Domain |
 |.storage        |500.00            |DomainCostClub.com|
 |.store          |40.00             |Cloudflare Domain |
