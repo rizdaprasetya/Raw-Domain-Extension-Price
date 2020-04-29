@@ -2,7 +2,9 @@
 This Project mission is to provide public information on the Raw/Actual/At-Cost/Real domain extension prices. 
 Visit the pricing table here: 
 - https://docs.google.com/spreadsheets/d/1ir4dNM_BYajBzBMELzd4PDIkuNW4eB1y7p271JIwW5I/edit?usp=sharing
-- Or Sort by cheapest: https://docs.google.com/spreadsheets/d/1ir4dNM_BYajBzBMELzd4PDIkuNW4eB1y7p271JIwW5I/edit#gid=0&fvid=273180247
+- Or Sort by cheapest: 
+    - https://docs.google.com/spreadsheets/d/1ir4dNM_BYajBzBMELzd4PDIkuNW4eB1y7p271JIwW5I/edit#gid=963044171 (mobile friendly)
+    - https://docs.google.com/spreadsheets/d/1ir4dNM_BYajBzBMELzd4PDIkuNW4eB1y7p271JIwW5I/edit#gid=0&fvid=273180247 (desktop only, Gsheet filter-view only works on Gsheet desktop)
 - Or [click here](/domain_prices.csv) to visit Github's CSV viewer, which also have search feature!
 
 Might be useful for:
