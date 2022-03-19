@@ -6,6 +6,7 @@ Visit the pricing table here:
     - https://docs.google.com/spreadsheets/d/1ir4dNM_BYajBzBMELzd4PDIkuNW4eB1y7p271JIwW5I/edit#gid=963044171 (mobile friendly)
     - https://docs.google.com/spreadsheets/d/1ir4dNM_BYajBzBMELzd4PDIkuNW4eB1y7p271JIwW5I/edit#gid=0&fvid=273180247 (desktop only, Gsheet filter-view only works on Gsheet desktop)
 - Or [click here](/domain_prices.csv) to visit Github's CSV viewer, which also have search feature!
+- Updated (March 2022) [Cloudflare TLDs domain pricing](./scrap-cloudflare-domain-pricing/cloudflare-domain-pricing-dump.csv) from Cloudflare registrar API. Checkout [that folder](./scrap-cloudflare-domain-pricing/) to know how to do it yourself.
 
 Might be useful for:
 - To make sure you are not overcharged by your Domain Registry.
