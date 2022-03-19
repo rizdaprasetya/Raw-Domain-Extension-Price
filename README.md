@@ -1,5 +1,5 @@
 # Raw Domain Prices
-This Project mission is to provide public information on the Raw/Actual/At-Cost/Real domain extension prices. 
+This Repo aim to provide visibility of information on Raw/Actual/At-Cost/Real domain extension prices. 
 Visit the pricing table here: 
 - [Cloudflare TLDs domain pricing dump](./scrap-cloudflare-domain-pricing/cloudflare-domain-pricing-dump.csv) from Cloudflare registrar API. Updated (March 2022). Checkout [that folder](./scrap-cloudflare-domain-pricing/) to learn more.
 
@@ -15,7 +15,7 @@ It's time for us to really know (or atleast approximate) how much we should be p
 
 # Embedded Raw Domain Extension Price Table
 
->**Note**: This embedded table is manually converted to markdown format from [Cloudflare TLDs domain pricing dump](./scrap-cloudflare-domain-pricing/cloudflare-domain-pricing-dump.csv) and may forgot to be updated to reflect the original file.
+>**Note**: This embedded table is manually converted to markdown format from [Cloudflare TLDs domain pricing dump](./scrap-cloudflare-domain-pricing/cloudflare-domain-pricing-dump.csv) and may forgot to be updated to reflect the original file. Price is in USD, for annual period.
 
 |tld name     |renewal price (usd)|registration price (usd)|
 |-------------|-----------------|----------------------|
