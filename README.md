@@ -1,7 +1,7 @@
 # Raw Domain Prices
 This Repo aim to provide visibility of information on Raw/Actual/At-Cost/Real domain extension prices. 
 Visit the pricing table here: 
-- [Cloudflare TLDs domain pricing dump](./scrap-cloudflare-domain-pricing/cloudflare-domain-pricing-dump.csv) from Cloudflare registrar API. Updated (March 2022). Checkout [that folder](./scrap-cloudflare-domain-pricing/) to learn more.
+- [Cloudflare TLDs domain pricing dump](./scrap-cloudflare-domain-pricing/cloudflare-domain-pricing-dump.csv) from Cloudflare registrar API. Updated (August 2022). Checkout [that folder](./scrap-cloudflare-domain-pricing/) to learn more.
 
 Might be useful for:
 - To make sure you are not overcharged by your Domain Registry.
@@ -17,7 +17,7 @@ It's time for us to really know (or atleast approximate) how much we should be p
 
 >**Note**: This embedded table is manually converted to markdown format from [Cloudflare TLDs domain pricing dump](./scrap-cloudflare-domain-pricing/cloudflare-domain-pricing-dump.csv) and may forgot to be updated to reflect the original file. Price is in USD, for annual period.
 
-|tld name     |renewal price (usd)|registration price (usd)|
+|tld_name     |renewal_price_usd|registration_price_usd|
 |-------------|-----------------|----------------------|
 |academy      |21.5             |21.5                  |
 |accountant   |11.98            |9.98                  |
@@ -69,8 +69,8 @@ It's time for us to really know (or atleast approximate) how much we should be p
 |coach        |35.5             |35.5                  |
 |codes        |35.5             |35.5                  |
 |coffee       |21.5             |21.5                  |
-|com          |8.39             |8.39                  |
 |college      |45               |45                    |
+|com          |8.39             |8.39                  |
 |community    |21.5             |21.5                  |
 |company      |7                |7                     |
 |computer     |21.5             |21.5                  |
@@ -80,7 +80,7 @@ It's time for us to really know (or atleast approximate) how much we should be p
 |contact      |7.5              |7.5                   |
 |contractors  |21.5             |21.5                  |
 |cool         |21.5             |21.5                  |
-|co           |5.24             |5.24                  |
+|co           |4.76             |4.76                  |
 |coupons      |35               |35                    |
 |credit       |66               |66                    |
 |creditcard   |99               |99                    |
@@ -169,9 +169,6 @@ It's time for us to really know (or atleast approximate) how much we should be p
 |insure       |35.5             |35.5                  |
 |international|15.5             |15.5                  |
 |investments  |66               |66                    |
-|loan         |3.98             |2.98                  |
-|net          |9.77             |9.77                  |
-|org          |9.93             |9.93                  |
 |io           |33               |33                    |
 |irish        |10.5             |10.5                  |
 |jetzt        |14               |14                    |
@@ -189,6 +186,7 @@ It's time for us to really know (or atleast approximate) how much we should be p
 |limited      |21.5             |21.5                  |
 |limo         |36               |36                    |
 |live         |17.5             |17.5                  |
+|loan         |3.98             |2.98                  |
 |loans        |66               |66                    |
 |love         |20               |20                    |
 |ltd          |15.5             |15.5                  |
@@ -201,24 +199,25 @@ It's time for us to really know (or atleast approximate) how much we should be p
 |media        |23               |23                    |
 |memorial     |35.5             |35.5                  |
 |men          |3.98             |2.98                  |
-|me           |5.24             |5.24                  |
+|me           |4.76             |4.76                  |
 |mobi         |17.4             |17.4                  |
 |moda         |21.5             |21.5                  |
 |money        |21.5             |21.5                  |
 |mortgage     |32               |32                    |
 |movie        |200              |200                   |
+|net          |9.77             |9.77                  |
 |network      |15.5             |15.5                  |
 |news         |17.5             |17.5                  |
 |ninja        |14.5             |14.5                  |
 |observer     |8                |8                     |
 |online       |25               |25                    |
-|org          |5.24             |5.24                  |
+|org          |9.93             |9.93                  |
+|org          |4.76             |4.76                  |
 |partners     |35.5             |35.5                  |
 |parts        |21.5             |21.5                  |
 |party        |3.98             |2.98                  |
 |pet          |13.15            |13.15                 |
 |photography  |15.5             |15.5                  |
-|             |undefined        |Unsupported           |
 |photos       |14               |14                    |
 |pictures     |7.5              |7.5                   |
 |pink         |13.15            |13.15                 |
@@ -269,8 +268,6 @@ It's time for us to really know (or atleast approximate) how much we should be p
 |software     |21.5             |21.5                  |
 |solar        |35.5             |35.5                  |
 |solutions    |15.5             |15.5                  |
-|us           |6.5              |6.5                   |
-|win          |3.98             |2.98                  |
 |space        |15               |15                    |
 |storage      |500              |500                   |
 |store        |40               |40                    |
@@ -302,8 +299,9 @@ It's time for us to really know (or atleast approximate) how much we should be p
 |trading      |12               |12                    |
 |training     |21.5             |21.5                  |
 |tv           |25               |25                    |
-|uk           |5.24             |5.24                  |
+|uk           |4.76             |4.76                  |
 |university   |35.5             |35.5                  |
+|us           |6.5              |6.5                   |
 |vacations    |21.5             |21.5                  |
 |ventures     |35.5             |35.5                  |
 |vet          |21.5             |21.5                  |
@@ -317,6 +315,7 @@ It's time for us to really know (or atleast approximate) how much we should be p
 |webcam       |6.98             |4.98                  |
 |website      |15               |15                    |
 |wiki         |19               |19                    |
+|win          |3.98             |2.98                  |
 |wine         |35.5             |35.5                  |
 |works        |21.5             |21.5                  |
 |world        |21               |21                    |
