@@ -15,7 +15,7 @@ It's time for us to really know (or atleast approximate) how much we should be p
 
 # Embedded Raw Domain Extension Price Table
 
->**Note**: This embedded table is manually converted to markdown format from [Cloudflare TLDs domain pricing dump](./scrap-cloudflare-domain-pricing/cloudflare-domain-pricing-dump.csv) and may forgot to be updated to reflect the original file. Price is in USD, for annual period.
+>**Note**: This embedded table is manually [converted to markdown](https://www.convertcsv.com/csv-to-markdown.htm) format from [Cloudflare TLDs domain pricing dump](./scrap-cloudflare-domain-pricing/cloudflare-domain-pricing-dump.csv) and may forgot to be updated to reflect the original file. Price is in USD, for annual period.
 
 |tld_name     |renewal_price_usd|registration_price_usd|
 |-------------|-----------------|----------------------|
