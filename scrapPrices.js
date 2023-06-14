@@ -1,5 +1,12 @@
 /** @OnlyCurrentDoc */
 
+/**
+ * !!! WARNING OUTDATED SCRIPT !!!
+ * This script no longer used/works. 
+ * Please check the `./scrap-cloudflare-domain-pricing/` folder on the main repo instead.
+ * It just here for legacy reference.
+ */
+
 // global vars
 var app = SpreadsheetApp.getActiveSpreadsheet();
 var ui = SpreadsheetApp.getUi();
