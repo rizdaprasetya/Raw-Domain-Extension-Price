@@ -1,7 +1,7 @@
 # Raw Domain Prices
 This Repo aim to provide visibility of information on Raw/Actual/At-Cost/Real domain extension prices. 
 Visit the pricing table here: 
-- [Cloudflare TLDs domain pricing dump](./scrap-cloudflare-domain-pricing/cloudflare-domain-pricing-dump.csv) from Cloudflare registrar API. Updated (January 2023). Checkout [that folder](./scrap-cloudflare-domain-pricing/) to learn more.
+- [Cloudflare TLDs domain pricing dump](./scrap-cloudflare-domain-pricing/cloudflare-domain-pricing-dump.csv) from Cloudflare registrar API. Updated (August 2023). Checkout [that folder](./scrap-cloudflare-domain-pricing/) to learn more.
 
 Might be useful for:
 - To make sure you are not overcharged by your Domain Registry.
@@ -144,7 +144,7 @@ It's time for us to really know (or atleast approximate) how much we should be p
 |forex        |30               |30                    |
 |forsale      |23               |23                    |
 |foundation   |21.5             |21.5                  |
-|fun          |15               |15                    |
+|fun          |25               |25                    |
 |fund         |38               |38                    |
 |furniture    |38               |38                    |
 |futbol       |8.5              |8.5                   |
@@ -218,6 +218,7 @@ It's time for us to really know (or atleast approximate) how much we should be p
 |me           |4.71             |4.71                  |
 |miami        |12               |12                    |
 |mobi         |20               |20                    |
+|             |undefined        |Unsupported           |
 |moda         |21.5             |21.5                  |
 |money        |23               |23                    |
 |mortgage     |35               |35                    |
@@ -284,13 +285,13 @@ It's time for us to really know (or atleast approximate) how much we should be p
 |shopping     |23               |23                    |
 |show         |23               |23                    |
 |singles      |21               |21                    |
-|site         |20               |20                    |
+|site         |25               |25                    |
 |soccer       |14               |14                    |
 |social       |23               |23                    |
 |software     |23               |23                    |
 |solar        |40               |40                    |
 |solutions    |17               |17                    |
-|space        |15               |15                    |
+|space        |20               |20                    |
 |storage      |500              |500                   |
 |store        |40               |40                    |
 |stream       |3.98             |2.98                  |
@@ -305,7 +306,7 @@ It's time for us to really know (or atleast approximate) how much we should be p
 |tax          |38               |38                    |
 |taxi         |38               |38                    |
 |team         |23               |23                    |
-|tech         |35               |35                    |
+|tech         |40               |40                    |
 |technology   |17               |17                    |
 |tennis       |35.5             |35.5                  |
 |theater      |35.5             |35.5                  |
@@ -338,7 +339,7 @@ It's time for us to really know (or atleast approximate) how much we should be p
 |voyage       |35.5             |35.5                  |
 |watch        |23               |23                    |
 |webcam       |9.98             |9.98                  |
-|website      |15               |15                    |
+|website      |20               |20                    |
 |wedding      |20               |20                    |
 |wiki         |19               |19                    |
 |win          |3.98             |2.98                  |
