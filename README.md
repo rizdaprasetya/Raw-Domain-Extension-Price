@@ -33,7 +33,7 @@ It's time for us to really know (or atleast approximate) how much we should be p
 |bargains     |21               |21                    |
 |beer         |20               |20                    |
 |bet          |15               |15                    |
-|bid          |3.98             |2.98                  |
+|bid          |4.98             |3.98                  |
 |bike         |23               |23                    |
 |bingo        |35.5             |35.5                  |
 |biz          |13.5             |13.5                  |
@@ -75,7 +75,7 @@ It's time for us to really know (or atleast approximate) how much we should be p
 |codes        |38               |38                    |
 |coffee       |23               |23                    |
 |college      |45               |45                    |
-|com          |8.97             |8.97                  |
+|com          |9.59             |9.59                  |
 |com          |8                |8                     |
 |community    |23               |23                    |
 |company      |8                |8                     |
@@ -95,7 +95,7 @@ It's time for us to really know (or atleast approximate) how much we should be p
 |cricket      |19.98            |19.98                 |
 |cruises      |35               |35                    |
 |dance        |17               |17                    |
-|date         |3.98             |2.98                  |
+|date         |4.98             |3.98                  |
 |dating       |38               |38                    |
 |deals        |23               |23                    |
 |degree       |32               |32                    |
@@ -112,7 +112,7 @@ It's time for us to really know (or atleast approximate) how much we should be p
 |doctor       |70               |70                    |
 |dog          |38               |38                    |
 |domains      |25               |25                    |
-|download     |3.98             |2.98                  |
+|download     |4.98             |3.98                  |
 |education    |17               |17                    |
 |email        |18               |18                    |
 |energy       |70               |70                    |
@@ -126,7 +126,7 @@ It's time for us to really know (or atleast approximate) how much we should be p
 |expert       |38               |38                    |
 |express      |23               |23                    |
 |fail         |21.5             |21.5                  |
-|faith        |6.98             |4.98                  |
+|faith        |9.98             |9.98                  |
 |family       |20               |20                    |
 |fans         |50               |50                    |
 |farm         |23               |23                    |
@@ -201,7 +201,7 @@ It's time for us to really know (or atleast approximate) how much we should be p
 |limited      |23               |23                    |
 |limo         |36               |36                    |
 |live         |20               |20                    |
-|loan         |3.98             |2.98                  |
+|loan         |4.98             |3.98                  |
 |loans        |70               |70                    |
 |love         |20               |20                    |
 |ltd          |17               |17                    |
@@ -214,11 +214,10 @@ It's time for us to really know (or atleast approximate) how much we should be p
 |mba          |21.5             |21.5                  |
 |media        |25               |25                    |
 |memorial     |35.5             |35.5                  |
-|men          |3.98             |2.98                  |
+|men          |4.98             |3.98                  |
 |me           |4.71             |4.71                  |
 |miami        |12               |12                    |
 |mobi         |20               |20                    |
-|             |undefined        |Unsupported           |
 |moda         |21.5             |21.5                  |
 |money        |23               |23                    |
 |mortgage     |35               |35                    |
@@ -235,7 +234,7 @@ It's time for us to really know (or atleast approximate) how much we should be p
 |org          |4.71             |4.71                  |
 |partners     |38               |38                    |
 |parts        |23               |23                    |
-|party        |3.98             |2.98                  |
+|party        |4.98             |3.98                  |
 |pet          |14               |14                    |
 |photography  |17               |17                    |
 |photos       |15               |15                    |
@@ -251,7 +250,7 @@ It's time for us to really know (or atleast approximate) how much we should be p
 |promo        |14               |14                    |
 |properties   |23               |23                    |
 |pub          |23               |23                    |
-|racing       |6.98             |4.98                  |
+|racing       |9.98             |9.98                  |
 |radio        |12               |12                    |
 |realty       |272              |272                   |
 |recipes      |38               |38                    |
@@ -266,7 +265,7 @@ It's time for us to really know (or atleast approximate) how much we should be p
 |republican   |21.5             |21.5                  |
 |rest         |25               |25                    |
 |restaurant   |38               |38                    |
-|review       |6.98             |4.98                  |
+|review       |9.98             |9.98                  |
 |reviews      |17               |17                    |
 |rip          |13               |13                    |
 |rocks        |12               |12                    |
@@ -277,7 +276,7 @@ It's time for us to really know (or atleast approximate) how much we should be p
 |sarl         |21.5             |21.5                  |
 |school       |23               |23                    |
 |schule       |14               |14                    |
-|science      |6.98             |4.98                  |
+|science      |9.98             |9.98                  |
 |security     |2000             |2000                  |
 |select       |20               |20                    |
 |services     |23               |23                    |
@@ -294,7 +293,7 @@ It's time for us to really know (or atleast approximate) how much we should be p
 |space        |20               |20                    |
 |storage      |500              |500                   |
 |store        |40               |40                    |
-|stream       |3.98             |2.98                  |
+|stream       |4.98             |3.98                  |
 |studio       |20               |20                    |
 |style        |23               |23                    |
 |supplies     |14               |14                    |
@@ -319,7 +318,7 @@ It's time for us to really know (or atleast approximate) how much we should be p
 |tours        |38               |38                    |
 |town         |23               |23                    |
 |toys         |38               |38                    |
-|trade        |3.98             |2.98                  |
+|trade        |4.98             |3.98                  |
 |trading      |12               |12                    |
 |training     |23               |23                    |
 |tv           |25               |25                    |
@@ -342,13 +341,13 @@ It's time for us to really know (or atleast approximate) how much we should be p
 |website      |20               |20                    |
 |wedding      |20               |20                    |
 |wiki         |19               |19                    |
-|win          |3.98             |2.98                  |
+|win          |4.98             |3.98                  |
 |wine         |38               |38                    |
 |work         |6                |6                     |
 |works        |23               |23                    |
 |world        |23               |23                    |
 |wtf          |23               |23                    |
-|xyz          |9.15             |9.15                  |
+|xyz          |10               |10                    |
 |yoga         |20               |20                    |
 |zone         |23               |23                    |
 
