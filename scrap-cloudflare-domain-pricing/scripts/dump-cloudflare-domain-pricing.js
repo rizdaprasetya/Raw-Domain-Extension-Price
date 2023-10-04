@@ -59,6 +59,9 @@ async function mainScript(config = {}) {
       dd && console.log("getTldsChunkResp:", getTldsChunkResp);
       tldsDetail = [].concat(tldsDetail, getTldsChunkResp.result);
     }
+
+    // filter out all TLD with `undefined` renewal_fee
+    tldsDetail = tldsDetail.filter((tld)=>{ return tld.fees.renewal_fee !== undefined })
   
     let tldsPricingCsvOutput = "tld_name,renewal_price_usd,registration_price_usd\r\n";
   
