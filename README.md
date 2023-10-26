@@ -1,7 +1,7 @@
 # Raw Domain Prices
 This Repo aim to provide visibility of information on Raw/Actual/At-Cost/Real domain extension prices. 
 Visit the pricing table here: 
-- [Cloudflare TLDs domain pricing dump](./scrap-cloudflare-domain-pricing/cloudflare-domain-pricing-dump.csv) from Cloudflare registrar API. Updated (August 2023). Checkout [that folder](./scrap-cloudflare-domain-pricing/) to learn more.
+- [Cloudflare TLDs domain pricing dump](./scrap-cloudflare-domain-pricing/cloudflare-domain-pricing-dump.csv) from Cloudflare registrar API. Updated (Oct 2023). Checkout [that folder](./scrap-cloudflare-domain-pricing/) to learn more.
 
 Might be useful for:
 - To make sure you are not overcharged by your Domain Registry.
@@ -17,339 +17,355 @@ It's time for us to really know (or atleast approximate) how much we should be p
 
 >**Note**: This embedded table is manually [converted to markdown](https://www.convertcsv.com/csv-to-markdown.htm) format from [Cloudflare TLDs domain pricing dump](./scrap-cloudflare-domain-pricing/cloudflare-domain-pricing-dump.csv) and may forgot to be updated to reflect the original file. Price is in USD, for annual period.
 
-|tld_name     |renewal_price_usd|registration_price_usd|
-|-------------|-----------------|----------------------|
-|academy      |25               |25                    |
-|accountant   |19.98            |19.98                 |
-|accountants  |70               |70                    |
-|actor        |26.5             |26.5                  |
-|agency       |17               |17                    |
-|apartments   |38               |38                    |
-|associates   |23               |23                    |
-|attorney     |40               |40                    |
-|auction      |23               |23                    |
-|band         |17               |17                    |
-|bar          |50               |50                    |
-|bargains     |21               |21                    |
-|beer         |20               |20                    |
-|bet          |15               |15                    |
-|bid          |4.98             |3.98                  |
-|bike         |23               |23                    |
-|bingo        |35.5             |35.5                  |
-|biz          |13.5             |13.5                  |
-|black        |42.5             |42.5                  |
-|blog         |20               |20                    |
-|blue         |14               |14                    |
-|boston       |10               |10                    |
-|boutique     |23               |23                    |
-|broker       |20               |20                    |
-|builders     |23               |23                    |
-|business     |8                |8                     |
-|cab          |21.5             |21.5                  |
-|cafe         |25               |25                    |
-|camera       |40               |40                    |
-|camp         |38               |38                    |
-|capital      |38               |38                    |
-|cards        |23               |23                    |
-|care         |23               |23                    |
-|careers      |38               |38                    |
-|casa         |7.5              |7.5                   |
-|cash         |23               |23                    |
-|casino       |105              |105                   |
-|catering     |23               |23                    |
-|cc           |8                |8                     |
-|center       |15               |15                    |
-|ceo          |70               |70                    |
-|chat         |23               |23                    |
-|cheap        |21               |21                    |
-|church       |25               |25                    |
-|city         |15               |15                    |
-|claims       |38               |38                    |
-|cleaning     |38               |38                    |
-|clinic       |38               |38                    |
-|clothing     |23               |23                    |
-|cloud        |15               |15                    |
-|club         |9.95             |9.95                  |
-|co           |22               |22                    |
-|coach        |38               |38                    |
-|codes        |38               |38                    |
-|coffee       |23               |23                    |
-|college      |45               |45                    |
-|com          |9.59             |9.59                  |
-|com          |8                |8                     |
-|community    |23               |23                    |
-|company      |8                |8                     |
-|compare      |20               |20                    |
-|computer     |23               |23                    |
-|condos       |35               |35                    |
-|construction |23               |23                    |
-|consulting   |25               |25                    |
-|contact      |9                |9                     |
-|contractors  |23               |23                    |
-|cooking      |20               |20                    |
-|cool         |23               |23                    |
-|co           |4.71             |4.71                  |
-|coupons      |38               |38                    |
-|credit       |70               |70                    |
-|creditcard   |105              |105                   |
-|cricket      |19.98            |19.98                 |
-|cruises      |35               |35                    |
-|dance        |17               |17                    |
-|date         |4.98             |3.98                  |
-|dating       |38               |38                    |
-|deals        |23               |23                    |
-|degree       |32               |32                    |
-|delivery     |38               |38                    |
-|democrat     |21.5             |21.5                  |
-|dental       |40               |40                    |
-|dentist      |40               |40                    |
-|design       |35               |35                    |
-|diamonds     |38               |38                    |
-|digital      |25               |25                    |
-|direct       |23               |23                    |
-|directory    |15               |15                    |
-|discount     |21.5             |21.5                  |
-|doctor       |70               |70                    |
-|dog          |38               |38                    |
-|domains      |25               |25                    |
-|download     |4.98             |3.98                  |
-|education    |17               |17                    |
-|email        |18               |18                    |
-|energy       |70               |70                    |
-|engineer     |23               |23                    |
-|engineering  |38               |38                    |
-|enterprises  |23               |23                    |
-|equipment    |16               |16                    |
-|estate       |23               |23                    |
-|events       |23               |23                    |
-|exchange     |23               |23                    |
-|expert       |38               |38                    |
-|express      |23               |23                    |
-|fail         |21.5             |21.5                  |
-|faith        |9.98             |9.98                  |
-|family       |20               |20                    |
-|fans         |50               |50                    |
-|farm         |23               |23                    |
-|fashion      |20               |20                    |
-|finance      |38               |38                    |
-|financial    |38               |38                    |
-|fish         |25               |25                    |
-|fishing      |20               |20                    |
-|fit          |20               |20                    |
-|fitness      |23               |23                    |
-|flights      |35.5             |35.5                  |
-|florist      |21.5             |21.5                  |
-|fm           |85               |85                    |
-|football     |14               |14                    |
-|forex        |30               |30                    |
-|forsale      |23               |23                    |
-|foundation   |21.5             |21.5                  |
-|fun          |25               |25                    |
-|fund         |38               |38                    |
-|furniture    |38               |38                    |
-|futbol       |8.5              |8.5                   |
-|fyi          |15               |15                    |
-|gallery      |15               |15                    |
-|games        |17               |17                    |
-|garden       |20               |20                    |
-|gifts        |23               |23                    |
-|gives        |21.5             |21.5                  |
-|glass        |38               |38                    |
-|gmbh         |21.5             |21.5                  |
-|gold         |70               |70                    |
-|golf         |38               |38                    |
-|graphics     |15               |15                    |
-|gratis       |14               |14                    |
-|green        |52.5             |52.5                  |
-|gripe        |21.5             |21.5                  |
-|group        |12               |12                    |
-|guide        |23               |23                    |
-|guru         |25               |25                    |
-|haus         |21.5             |21.5                  |
-|health       |50               |50                    |
-|healthcare   |38               |38                    |
-|hockey       |35.5             |35.5                  |
-|holdings     |38               |38                    |
-|holiday      |38               |38                    |
-|horse        |20               |20                    |
-|hospital     |38               |38                    |
-|host         |65               |65                    |
-|house        |23               |23                    |
-|immo         |21.5             |21.5                  |
-|immobilien   |21.5             |21.5                  |
-|industries   |23               |23                    |
-|info         |16               |16                    |
-|ink          |19               |19                    |
-|institute    |16               |16                    |
-|insure       |38               |38                    |
-|international|17               |17                    |
-|investments  |75               |75                    |
-|io           |36               |36                    |
-|irish        |10.5             |10.5                  |
-|jetzt        |14               |14                    |
-|jewelry      |38               |38                    |
-|kaufen       |21.5             |21.5                  |
-|kim          |14               |14                    |
-|kitchen      |38               |38                    |
-|land         |23               |23                    |
-|lawyer       |40               |40                    |
-|lease        |35               |35                    |
-|legal        |40               |40                    |
-|lgbt         |35               |35                    |
-|life         |23               |23                    |
-|lighting     |15               |15                    |
-|limited      |23               |23                    |
-|limo         |36               |36                    |
-|live         |20               |20                    |
-|loan         |4.98             |3.98                  |
-|loans        |70               |70                    |
-|love         |20               |20                    |
-|ltd          |17               |17                    |
-|luxe         |15               |15                    |
-|maison       |35.5             |35.5                  |
-|management   |15               |15                    |
-|market       |25               |25                    |
-|marketing    |23               |23                    |
-|markets      |10               |10                    |
-|mba          |21.5             |21.5                  |
-|media        |25               |25                    |
-|memorial     |35.5             |35.5                  |
-|men          |4.98             |3.98                  |
-|me           |4.71             |4.71                  |
-|miami        |12               |12                    |
-|mobi         |20               |20                    |
-|moda         |21.5             |21.5                  |
-|money        |23               |23                    |
-|mortgage     |35               |35                    |
-|movie        |215              |215                   |
-|net          |9.92             |9.92                  |
-|net          |8                |8                     |
-|network      |17               |17                    |
-|news         |20               |20                    |
-|ninja        |16               |16                    |
-|nom          |8                |8                     |
-|observer     |8                |8                     |
-|online       |25               |25                    |
-|org          |9.93             |9.93                  |
-|org          |4.71             |4.71                  |
-|partners     |38               |38                    |
-|parts        |23               |23                    |
-|party        |4.98             |3.98                  |
-|pet          |14               |14                    |
-|photography  |17               |17                    |
-|photos       |15               |15                    |
-|pictures     |7.5              |7.5                   |
-|pink         |14               |14                    |
-|pizza        |38               |38                    |
-|place        |12               |12                    |
-|plumbing     |35.5             |35.5                  |
-|plus         |23               |23                    |
-|press        |49               |49                    |
-|pro          |16               |16                    |
-|productions  |23               |23                    |
-|promo        |14               |14                    |
-|properties   |23               |23                    |
-|pub          |23               |23                    |
-|racing       |9.98             |9.98                  |
-|radio        |12               |12                    |
-|realty       |272              |272                   |
-|recipes      |38               |38                    |
-|red          |14               |14                    |
-|rehab        |21.5             |21.5                  |
-|reise        |66               |66                    |
-|reisen       |14               |14                    |
-|rent         |45               |45                    |
-|rentals      |23               |23                    |
-|repair       |23               |23                    |
-|report       |15               |15                    |
-|republican   |21.5             |21.5                  |
-|rest         |25               |25                    |
-|restaurant   |38               |38                    |
-|review       |9.98             |9.98                  |
-|reviews      |17               |17                    |
-|rip          |13               |13                    |
-|rocks        |12               |12                    |
-|rodeo        |5                |5                     |
-|run          |15               |15                    |
-|sale         |23               |23                    |
-|salon        |38               |38                    |
-|sarl         |21.5             |21.5                  |
-|school       |23               |23                    |
-|schule       |14               |14                    |
-|science      |9.98             |9.98                  |
-|security     |2000             |2000                  |
-|select       |20               |20                    |
-|services     |23               |23                    |
-|shoes        |38               |38                    |
-|shopping     |23               |23                    |
-|show         |23               |23                    |
-|singles      |21               |21                    |
-|site         |25               |25                    |
-|soccer       |14               |14                    |
-|social       |23               |23                    |
-|software     |23               |23                    |
-|solar        |40               |40                    |
-|solutions    |17               |17                    |
-|space        |20               |20                    |
-|storage      |500              |500                   |
-|store        |40               |40                    |
-|stream       |4.98             |3.98                  |
-|studio       |20               |20                    |
-|style        |23               |23                    |
-|supplies     |14               |14                    |
-|supply       |15               |15                    |
-|support      |17               |17                    |
-|surf         |20               |20                    |
-|surgery      |35.5             |35.5                  |
-|systems      |18               |18                    |
-|tax          |38               |38                    |
-|taxi         |38               |38                    |
-|team         |23               |23                    |
-|tech         |40               |40                    |
-|technology   |17               |17                    |
-|tennis       |35.5             |35.5                  |
-|theater      |35.5             |35.5                  |
-|theatre      |500              |500                   |
-|tienda       |35.5             |35.5                  |
-|tips         |18               |18                    |
-|tires        |66               |66                    |
-|today        |17               |17                    |
-|tools        |23               |23                    |
-|tours        |38               |38                    |
-|town         |23               |23                    |
-|toys         |38               |38                    |
-|trade        |4.98             |3.98                  |
-|trading      |12               |12                    |
-|training     |23               |23                    |
-|tv           |25               |25                    |
-|uk           |4.71             |4.71                  |
-|university   |38               |38                    |
-|us           |6.5              |6.5                   |
-|vacations    |23               |23                    |
-|ventures     |38               |38                    |
-|vet          |25               |25                    |
-|viajes       |35               |35                    |
-|video        |20               |20                    |
-|villas       |35.5             |35.5                  |
-|vin          |38               |38                    |
-|vip          |11               |11                    |
-|vision       |23               |23                    |
-|vodka        |20               |20                    |
-|voyage       |35.5             |35.5                  |
-|watch        |23               |23                    |
-|webcam       |9.98             |9.98                  |
-|website      |20               |20                    |
-|wedding      |20               |20                    |
-|wiki         |19               |19                    |
-|win          |4.98             |3.98                  |
-|wine         |38               |38                    |
-|work         |6                |6                     |
-|works        |23               |23                    |
-|world        |23               |23                    |
-|wtf          |23               |23                    |
-|xyz          |10               |10                    |
-|yoga         |20               |20                    |
-|zone         |23               |23                    |
+|tld_name|renewal_price_usd            |registration_price_usd|
+|--------|-----------------------------|----------------------|
+|academy |25                           |25                    |
+|accountant|19.98                        |19.98                 |
+|accountants|75                           |75                    |
+|actor   |29                           |29                    |
+|agency  |18                           |18                    |
+|apartments|40                           |40                    |
+|app     |12                           |12                    |
+|associates|26                           |26                    |
+|attorney|40                           |40                    |
+|auction |23                           |23                    |
+|band    |20                           |20                    |
+|bar     |50                           |50                    |
+|bargains|23                           |23                    |
+|beer    |20                           |20                    |
+|bet     |17                           |17                    |
+|bid     |4.98                         |3.98                  |
+|bike    |25                           |25                    |
+|bingo   |38                           |38                    |
+|biz     |13.5                         |13.5                  |
+|black   |42.5                         |42.5                  |
+|blog    |20                           |20                    |
+|blue    |15                           |15                    |
+|boo     |8                            |8                     |
+|boston  |10                           |10                    |
+|boutique|23                           |23                    |
+|broker  |22                           |22                    |
+|builders|25                           |25                    |
+|business|9                            |9                     |
+|cab     |21.5                         |21.5                  |
+|cafe    |28                           |28                    |
+|camera  |40                           |40                    |
+|camp    |38                           |38                    |
+|capital |46                           |46                    |
+|cards   |25                           |25                    |
+|care    |27                           |27                    |
+|careers |46                           |46                    |
+|casa    |7.5                          |7.5                   |
+|cash    |23                           |23                    |
+|casino  |110                          |110                   |
+|catering|25                           |25                    |
+|cc      |8                            |8                     |
+|center  |17                           |17                    |
+|ceo     |70                           |70                    |
+|chat    |25                           |25                    |
+|cheap   |23                           |23                    |
+|church  |28                           |28                    |
+|city    |17                           |17                    |
+|claims  |46                           |46                    |
+|cleaning|42                           |42                    |
+|clinic  |42                           |42                    |
+|clothing|23                           |23                    |
+|cloud   |15                           |15                    |
+|club    |9.95                         |9.95                  |
+|co      |22                           |22                    |
+|coach   |42                           |42                    |
+|codes   |42                           |42                    |
+|coffee  |25                           |25                    |
+|college |45                           |45                    |
+|com     |9.59                         |9.59                  |
+|com     |8                            |8                     |
+|community|25                           |25                    |
+|company |10                           |10                    |
+|compare |20                           |20                    |
+|computer|25                           |25                    |
+|condos  |38                           |38                    |
+|construction|25                           |25                    |
+|consulting|30                           |30                    |
+|contact |9                            |9                     |
+|contractors|23                           |23                    |
+|cooking |20                           |20                    |
+|cool    |25                           |25                    |
+|co      |4.71                         |4.71                  |
+|coupons |38                           |38                    |
+|credit  |75                           |75                    |
+|creditcard|125                          |125                   |
+|cricket |19.98                        |19.98                 |
+|cruises |38                           |38                    |
+|dad     |10                           |10                    |
+|dance   |18                           |18                    |
+|date    |4.98                         |3.98                  |
+|dating  |42                           |42                    |
+|day     |8                            |8                     |
+|deals   |25                           |25                    |
+|degree  |32                           |32                    |
+|delivery|38                           |38                    |
+|democrat|23                           |23                    |
+|dental  |45                           |45                    |
+|dentist |40                           |40                    |
+|design  |35                           |35                    |
+|dev     |10                           |10                    |
+|diamonds|38                           |38                    |
+|digital |27                           |27                    |
+|direct  |25                           |25                    |
+|directory|17                           |17                    |
+|discount|21.5                         |21.5                  |
+|doctor  |80                           |80                    |
+|dog     |41                           |41                    |
+|domains |28                           |28                    |
+|download|4.98                         |3.98                  |
+|education|21.5                         |21.5                  |
+|email   |19                           |19                    |
+|energy  |75                           |75                    |
+|engineer|25                           |25                    |
+|engineering|42                           |42                    |
+|enterprises|25                           |25                    |
+|equipment|16                           |16                    |
+|esq     |20                           |20                    |
+|estate  |25                           |25                    |
+|events  |25                           |25                    |
+|exchange|25                           |25                    |
+|expert  |42                           |42                    |
+|express |25                           |25                    |
+|fail    |25                           |25                    |
+|faith   |9.98                         |9.98                  |
+|family  |23                           |23                    |
+|fans    |50                           |50                    |
+|farm    |25                           |25                    |
+|fashion |20                           |20                    |
+|finance |41                           |41                    |
+|financial|38                           |38                    |
+|fish    |28                           |28                    |
+|fishing |20                           |20                    |
+|fit     |20                           |20                    |
+|fitness |25                           |25                    |
+|flights |38                           |38                    |
+|florist |23                           |23                    |
+|fm      |85                           |85                    |
+|foo     |10                           |10                    |
+|football|17                           |17                    |
+|forex   |30                           |30                    |
+|forsale |23                           |23                    |
+|foundation|21.5                         |21.5                  |
+|fun     |25                           |25                    |
+|fund    |42                           |42                    |
+|furniture|80                           |80                    |
+|futbol  |9                            |9                     |
+|fyi     |15                           |15                    |
+|gallery |17                           |17                    |
+|games   |20                           |20                    |
+|garden  |20                           |20                    |
+|gifts   |23                           |23                    |
+|gives   |21.5                         |21.5                  |
+|glass   |41                           |41                    |
+|gmbh    |25                           |25                    |
+|gold    |75                           |75                    |
+|golf    |42                           |42                    |
+|graphics|17                           |17                    |
+|gratis  |14                           |14                    |
+|green   |52.5                         |52.5                  |
+|gripe   |21.5                         |21.5                  |
+|group   |14                           |14                    |
+|guide   |25                           |25                    |
+|guru    |27                           |27                    |
+|haus    |21.5                         |21.5                  |
+|health  |50                           |50                    |
+|healthcare|46                           |46                    |
+|hockey  |38                           |38                    |
+|holdings|42                           |42                    |
+|holiday |41                           |41                    |
+|horse   |20                           |20                    |
+|hospital|41                           |41                    |
+|host    |65                           |65                    |
+|house   |28                           |28                    |
+|how     |20                           |20                    |
+|immo    |21.5                         |21.5                  |
+|immobilien|21.5                         |21.5                  |
+|industries|28                           |28                    |
+|info    |16                           |16                    |
+|ink     |19                           |19                    |
+|institute|18                           |18                    |
+|insure  |41                           |41                    |
+|international|20                           |20                    |
+|investments|80                           |80                    |
+|io      |36                           |36                    |
+|irish   |14                           |14                    |
+|jetzt   |14                           |14                    |
+|jewelry |42                           |42                    |
+|kaufen  |23                           |23                    |
+|kim     |15                           |15                    |
+|kitchen |41                           |41                    |
+|land    |25                           |25                    |
+|lawyer  |40                           |40                    |
+|lease   |38                           |38                    |
+|legal   |45                           |45                    |
+|lgbt    |43                           |43                    |
+|life    |24                           |24                    |
+|lighting|17                           |17                    |
+|limited |23                           |23                    |
+|limo    |38                           |38                    |
+|live    |21                           |21                    |
+|loan    |4.98                         |3.98                  |
+|loans   |75                           |75                    |
+|love    |20                           |20                    |
+|ltd     |19                           |19                    |
+|luxe    |15                           |15                    |
+|maison  |38                           |38                    |
+|management|16                           |16                    |
+|market  |28                           |28                    |
+|marketing|28                           |28                    |
+|markets |11                           |11                    |
+|mba     |25                           |25                    |
+|media   |28                           |28                    |
+|memorial|35.5                         |35.5                  |
+|men     |4.98                         |3.98                  |
+|me      |4.71                         |4.71                  |
+|miami   |12                           |12                    |
+|mobi    |20                           |20                    |
+|moda    |21.5                         |21.5                  |
+|money   |25                           |25                    |
+|mortgage|40                           |40                    |
+|mov     |10                           |10                    |
+|movie   |215                          |215                   |
+|net     |9.92                         |9.92                  |
+|net     |8                            |8                     |
+|network |21.5                         |21.5                  |
+|new     |400                          |400                   |
+|news    |21                           |21                    |
+|nexus   |10                           |10                    |
+|ninja   |21                           |21                    |
+|nom     |8                            |8                     |
+|observer|9                            |9                     |
+|online  |25                           |25                    |
+|org     |9.93                         |9.93                  |
+|org     |4.71                         |4.71                  |
+|page    |8                            |8                     |
+|partners|46                           |46                    |
+|parts   |25                           |25                    |
+|party   |4.98                         |3.98                  |
+|pet     |16                           |16                    |
+|phd     |20                           |20                    |
+|photography|23                           |23                    |
+|photos  |17                           |17                    |
+|pictures|9                            |9                     |
+|pink    |15                           |15                    |
+|pizza   |42                           |42                    |
+|place   |14                           |14                    |
+|plumbing|38                           |38                    |
+|plus    |25                           |25                    |
+|press   |49                           |49                    |
+|pro     |16                           |16                    |
+|productions|25                           |25                    |
+|prof    |20                           |20                    |
+|promo   |16                           |16                    |
+|properties|25                           |25                    |
+|pub     |25                           |25                    |
+|racing  |9.98                         |9.98                  |
+|radio   |12                           |12                    |
+|realty  |280                          |280                   |
+|recipes |42                           |42                    |
+|red     |15                           |15                    |
+|rehab   |25                           |25                    |
+|reise   |66                           |66                    |
+|reisen  |14                           |14                    |
+|rent    |45                           |45                    |
+|rentals |25                           |25                    |
+|repair  |25                           |25                    |
+|report  |16                           |16                    |
+|republican|25                           |25                    |
+|rest    |25                           |25                    |
+|restaurant|41                           |41                    |
+|review  |9.98                         |9.98                  |
+|reviews |40                           |40                    |
+|rip     |15                           |15                    |
+|rocks   |13                           |13                    |
+|rodeo   |5                            |5                     |
+|rsvp    |8                            |8                     |
+|run     |17                           |17                    |
+|sale    |25                           |25                    |
+|salon   |41                           |41                    |
+|sarl    |21.5                         |21.5                  |
+|school  |25                           |25                    |
+|schule  |16                           |16                    |
+|science |9.98                         |9.98                  |
+|security|2000                         |2000                  |
+|select  |20                           |20                    |
+|services|25                           |25                    |
+|shoes   |41                           |41                    |
+|shopping|23                           |23                    |
+|show    |28                           |28                    |
+|singles |23                           |23                    |
+|site    |25                           |25                    |
+|soccer  |16                           |16                    |
+|social  |25                           |25                    |
+|software|25                           |25                    |
+|solar   |40                           |40                    |
+|solutions|20                           |20                    |
+|soy     |18                           |18                    |
+|space   |20                           |20                    |
+|storage |500                          |500                   |
+|store   |40                           |40                    |
+|stream  |4.98                         |3.98                  |
+|studio  |24                           |24                    |
+|style   |25                           |25                    |
+|supplies|16                           |16                    |
+|supply  |16                           |16                    |
+|support |18                           |18                    |
+|surf    |20                           |20                    |
+|surgery |35.5                         |35.5                  |
+|systems |21                           |21                    |
+|tax     |46                           |46                    |
+|taxi    |42                           |42                    |
+|team    |23                           |23                    |
+|tech    |40                           |40                    |
+|technology|20                           |20                    |
+|tennis  |43                           |43                    |
+|theater |41                           |41                    |
+|theatre |500                          |500                   |
+|tienda  |41                           |41                    |
+|tips    |21                           |21                    |
+|tires   |70                           |70                    |
+|today   |18                           |18                    |
+|tools   |23                           |23                    |
+|tours   |41                           |41                    |
+|town    |23                           |23                    |
+|toys    |41                           |41                    |
+|trade   |4.98                         |3.98                  |
+|trading |13                           |13                    |
+|training|25                           |25                    |
+|tv      |25                           |25                    |
+|uk      |4.71                         |4.71                  |
+|university|40                           |40                    |
+|us      |6.5                          |6.5                   |
+|vacations|25                           |25                    |
+|ventures|38                           |38                    |
+|vet     |27                           |27                    |
+|viajes  |35                           |35                    |
+|video   |25                           |25                    |
+|villas  |35.5                         |35.5                  |
+|vin     |41                           |41                    |
+|vip     |11                           |11                    |
+|vision  |25                           |25                    |
+|vodka   |20                           |20                    |
+|voyage  |38                           |38                    |
+|watch   |28                           |28                    |
+|webcam  |9.98                         |9.98                  |
+|website |20                           |20                    |
+|wedding |20                           |20                    |
+|wiki    |19                           |19                    |
+|win     |4.98                         |3.98                  |
+|wine    |38                           |38                    |
+|work    |6                            |6                     |
+|works   |25                           |25                    |
+|world   |25                           |25                    |
+|wtf     |23                           |23                    |
+|xyz     |10                           |10                    |
+|yoga    |20                           |20                    |
+|zone    |25                           |25                    |
 
 
 ### Disclaimer & Credits
