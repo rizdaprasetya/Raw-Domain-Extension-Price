@@ -80,8 +80,8 @@ async function mainScript(config = {}) {
     // print final output in CSV format
     console.log(tldsPricingCsvOutput);
     // copy to clipboard if possible
-    if(typeof copy !== 'undefined'){
-      copy(tldsPricingCsvOutput);
+    if(typeof window.copy === 'function'){
+      window.copy(tldsPricingCsvOutput);
     }
   
     if (cfg.isDownloadAsCsv) {
