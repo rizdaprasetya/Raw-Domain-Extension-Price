@@ -15,5 +15,9 @@ function mainScript() {
     }
     output+= "]";
     console.log(output);
+    // copy to clipboard if possible
+    if(typeof copy !== 'undefined'){
+      copy(tldsPricingCsvOutput);
+    }
   }
   mainScript();

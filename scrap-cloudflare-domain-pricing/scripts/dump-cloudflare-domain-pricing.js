@@ -79,6 +79,10 @@ async function mainScript(config = {}) {
     dd && console.log("tldsPricing:", tldsPricing);
     // print final output in CSV format
     console.log(tldsPricingCsvOutput);
+    // copy to clipboard if possible
+    if(typeof copy !== 'undefined'){
+      copy(tldsPricingCsvOutput);
+    }
   
     if (cfg.isDownloadAsCsv) {
       // Trigger browser download
