@@ -17,7 +17,7 @@ function mainScript() {
     console.log(output);
     // copy to clipboard if possible
     if(typeof window.copy === 'function'){
-      window.copy(tldsPricingCsvOutput);
+      window.copy(output);
     }
   }
   mainScript();
