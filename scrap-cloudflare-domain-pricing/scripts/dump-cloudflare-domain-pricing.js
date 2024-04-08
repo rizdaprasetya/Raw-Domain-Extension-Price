@@ -69,7 +69,8 @@ async function mainScript(config = {}) {
   
     let tldsPricing = (tldsDetail).map((tld, idx) => {
       let tldPricing = {
-        tld_name: ((tld.name).split('.'))[1],
+        tld_name: tld.name
+          .split('.').slice(1).join('.'), // remove dummy dummyDomainName string in front of the first `.` char.
         renewal_price_usd: tld.fees.renewal_fee,
         registration_price_usd: tld.fees.registration_fee
       };
