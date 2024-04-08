@@ -4,13 +4,13 @@ Visit the pricing table here:
 - [Cloudflare TLDs domain pricing dump](./scrap-cloudflare-domain-pricing/cloudflare-domain-pricing-dump.csv) from Cloudflare registrar API. Updated (Apr 2024). Checkout [that folder](./scrap-cloudflare-domain-pricing/) to learn more.
 
 Might be useful for:
-- To make sure you are not overcharged by your Domain Registry.
-- To know how much Domain Registry is marking up prices.
-- To know which domain extension is most cost effective
+- To make sure we are not overcharged by Domain Registry service providers we are using.
+- To roughly know how much Domain Registry is marking up prices.
+- To roughly know which domain extension is most cost effective
 - etc
 
-Domain price are so obsecured, I can hardly find what is the real price of a domain. 
-Domain registry make it worse by sometimes using bait-and-switch strategy offering cheap 1st year registration, then jacking up the price beyond the real price.
+Domain prices are so obsecured, we can hardly find what is the real price of a domain. 
+Domain registry service providers make it worse by sometimes using bait-and-switch strategy offering cheap 1st year registration, then jacking up the price beyond the real price.
 It's time for us to really know (or atleast approximate) how much we should be paying for.
 
 # Embedded Raw Domain Extension Price Table
@@ -368,6 +368,7 @@ It's time for us to really know (or atleast approximate) how much we should be p
 
 
 ### Disclaimer & Credits
+- By "we","us", or "our" I refer to my own self (not a collective "we"), because it is for my personal use.
 - This repo is mainly for my own personal use. Hosted here so I can easily access it. No one is guaranteeing anything. I don't mean any harm/mis-use to the underlying source of info.
 - I don't know about the accuracy any of the info provided. It is provided as-is.
 - This repo was inspired & took a lot of useful info from this (now removed repo): `https://github.com/judge2020/Actual-Domain-Prices/`

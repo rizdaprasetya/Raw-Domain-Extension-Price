@@ -44,6 +44,7 @@ async function mainScript(config = {}) {
         "id": tldsParam
       });
   
+      dd && console.log("delay a few miliseconds between request...");
       // delay a few miliseconds between request
       await new Promise(resolve => setTimeout(resolve, 500));
   
