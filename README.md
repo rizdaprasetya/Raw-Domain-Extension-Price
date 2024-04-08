@@ -1,21 +1,21 @@
-# Raw Domain Prices
-This Repo aim to provide visibility of information on Raw/Actual/At-Cost/Real domain extension prices. 
-Visit the pricing table here: 
+# Raw Domain Prices Data Dump
+
+This repository aims to provide visibility of information on raw/actual/at-cost domain extension prices. Visit the pricing table here:
+
 - [Cloudflare TLDs domain pricing dump](./scrap-cloudflare-domain-pricing/cloudflare-domain-pricing-dump.csv) from Cloudflare registrar API. Updated (Apr 2024). Checkout [that folder](./scrap-cloudflare-domain-pricing/) to learn more.
 
-Might be useful for:
-- To make sure we are not overcharged by Domain Registry service providers we are using.
-- To roughly know how much Domain Registry is marking up prices.
-- To roughly know which domain extension is most cost effective
-- etc
+This might be useful for:
 
-Domain prices are so obsecured, we can hardly find what is the real price of a domain. 
-Domain registry service providers make it worse by sometimes using bait-and-switch strategy offering cheap 1st year registration, then jacking up the price beyond the real price.
-It's time for us to really know (or atleast approximate) how much we should be paying for.
+- Ensuring we are not overcharged by domain registry service providers we are using.
+- Roughly estimating how much domain registries mark up prices.
+- Identifying which domain extension is the most cost-effective.
+- And more.
 
-# Embedded Raw Domain Extension Price Table
+Domain prices are so obscured; we can hardly find the real price of a domain. Domain registry service providers make it worse by sometimes using a bait-and-switch strategy, offering cheap first-year registration, then jacking up the price beyond the actual cost. It's time for us to really know (or at least approximate) how much we should be paying for.
 
->**Note**: This embedded table is manually [converted to markdown](https://www.convertcsv.com/csv-to-markdown.htm) format from [Cloudflare TLDs domain pricing dump](./scrap-cloudflare-domain-pricing/cloudflare-domain-pricing-dump.csv) and may forgot to be updated to reflect the original file. Price is in USD, for annual period.
+# Embedded Raw Domain Extension Price Table Dump
+
+> **Note**: This embedded table is manually [converted to markdown](https://www.convertcsv.com/csv-to-markdown.htm) format from [Cloudflare TLDs domain pricing dump](./scrap-cloudflare-domain-pricing/cloudflare-domain-pricing-dump.csv) and may forget to be updated to reflect the original file. Prices are in USD, for an annual period.
 
 |tld_name     |renewal_price_usd|registration_price_usd|
 |-------------|-----------------|----------------------|
@@ -368,11 +368,11 @@ It's time for us to really know (or atleast approximate) how much we should be p
 
 
 ### Disclaimer & Credits
-- By "we","us", or "our" I refer to my own self (not a collective "we"), because it is for my personal use.
-- This repo is mainly for my own personal use. Hosted here so I can easily access it. No one is guaranteeing anything. I don't mean any harm/mis-use to the underlying source of info.
-- I don't know about the accuracy any of the info provided. It is provided as-is.
-- This repo was inspired & took a lot of useful info from this (now removed repo): `https://github.com/judge2020/Actual-Domain-Prices/`
 
+- By "we," "us," or "our," I refer to myself (not a collective "we"), as this repository is for my personal use.
+- This repository is primarily for my personal use, hosted here for easy access. No guarantees are made. I do not intend any harm or misuse of the underlying sources of information.
+- I cannot vouch for the accuracy of any of the provided information. It is provided as-is.
+- This repository was inspired by and borrowed a lot of useful information from this (now removed) repository: [judge2020/Actual-Domain-Prices](https://github.com/judge2020/Actual-Domain-Prices).
 
 # Outdated Stuff
 
