@@ -1,4 +1,9 @@
 # Raw Domain Prices Data Dump
+> [!CAUTION] 
+> **The Pricing Information may no longer be Valid/Up-to-Date** \
+> \
+> Sadly, as of 16 October 2024, it **seems CF has patched their API endpoint** to no longer expose domain pricing :( \
+> The script I used to update this repo no longer seems to work, not sure if I can update the info in this repo anymore. I'll need to try to find workarounds, but can't promise I can do it anytime soon.
 
 This repository aims to provide visibility of information on raw/actual/at-cost domain extension prices. Visit the pricing table here:
 
